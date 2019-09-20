@@ -15,7 +15,8 @@ namespace CA190920WKECS
                 new Farkas("HosszúFaSzú", true, 5),
                 new Farkas("Hagyma", false, 4),
                 new Farkas("FarkasÚr", true, 4),
-                new Farkas("Feri", true, 3)
+                new Farkas("Feri", true, 3),
+                new Farkas("Fofo", true, 6)
             };
             Console.WriteLine("Összes farkas neve: ");
             foreach (var f  in farkasok)
